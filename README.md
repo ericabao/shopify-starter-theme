@@ -1,2 +1,2 @@
-# shopify-starter-theme
-Shopify Starter Theme for development training
+# Shopify Starter Theme
+for development training
